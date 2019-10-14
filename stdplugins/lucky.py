@@ -48,7 +48,7 @@ async def _(event):
             "⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜",
             "⬜⬜⬜\n⬜⬜⬜\n⬜⬜⬜",
             "⬜⬜\n⬜⬜",
-            "[🎁](https://github.com/ravana69/PornHub/)"
+            "[🎁](https://github.com/userbotpapa9838/JackSparrow/)"
 
  ]
 
